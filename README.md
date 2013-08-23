@@ -4,17 +4,15 @@ PowerPlaceholder
 
 Demo网址：
 
-<section id="overview">
-          <div class="page-header">
+<section>
+          <div>
             <h1>什么是 PowerPlaceholder</h1>
           </div>
           <p>PowerPlaceholder是一款基于jQuery的Placeholder插件，可用于input输入框及textarea输入框，在其内部实现提示文字效果。</P>
-		      <p>向Stackoverflow致敬，本js大量参考了Stackoverflow中相关实现。</P>
-		      <p>大家可以随意修改使用。</p>
-
-        
-		  <h3>依赖</h3>
-		  <p>只依赖于jQuery 1.6+</P>
+	  <p>向Stackoverflow致敬，本js大量参考了Stackoverflow中相关实现。</P>
+          <p>大家可以随意修改使用。</p>
+          <h3>依赖</h3>
+	<p>只依赖于jQuery 1.6+</P>
 	<h3>特点</h3>
          <ul>
             <li>纯JavaScript脚本</li>
@@ -27,7 +25,7 @@ Demo网址：
             <li>界面输入内容多，没有额外空间为用户显示提示文字</li>
             <li>对用户体验要求较高，提供流畅的输入体验</li>
           </ul>
-        </section>
+</section>
         
         
         
