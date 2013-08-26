@@ -2,7 +2,7 @@ PowerPlaceholder
 ================
 
 
-Demo网址：
+Demo网址：http://www.sujiantao.com/demos/powerplaceholder.html
 
 <section>
           <div>
